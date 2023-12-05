@@ -1,1 +1,3 @@
 this is doing for connect  the master branch to feature branch
+
+this is doing for master branch  second commmit
